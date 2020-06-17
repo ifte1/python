@@ -1,4 +1,4 @@
-x=open('ifte.txt')
+x=open('mbox-short.txt')
 count=0
 for line in x:
     count=count+1
